@@ -3,3 +3,5 @@ physical boards, and modern chess being centered increasingly more around digita
 another human or an chess engine opponent of variable difficulty. The board includes certain amenities such as a built-in clock, a mechanical arm for the chess engine to interact with the clock, and an 
 array of LED inside the board. The main purpose of the LEDs is to light up certain squares on the board to visually display the chess engine opponent's move. The human player will then move 
 the AI's pieces according to the squares lit up. Finally, the board contains a small LCD screen which functions as a UI for communicating with the AI.
+
+This repository is the central controller code.

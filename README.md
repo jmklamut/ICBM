@@ -5,3 +5,6 @@ array of LED inside the board. The main purpose of the LEDs is to light up certa
 the AI's pieces according to the squares lit up. Finally, the board contains a small LCD screen which functions as a UI for communicating with the AI.
 
 This repository is the central controller code.
+
+https://www.youtube.com/shorts/yPT0EZthRkQ
+

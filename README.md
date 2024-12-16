@@ -6,5 +6,7 @@ the AI's pieces according to the squares lit up. Finally, the board contains a s
 
 This repository is the central controller code.
 
+https://youtube.com/shorts/JrQx1CTbntk?feature=share
 https://www.youtube.com/shorts/yPT0EZthRkQ
+
 
